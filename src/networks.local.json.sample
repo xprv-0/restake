@@ -1,8 +1,8 @@
 {
-  "akash": {
-    "prettyName": "Akash",
-    "restUrl": [
-      "https://rest.validator.com/osmosis"
-    ]
+  "cosmoshub": {
+    "enabled": true,
+    "ownerAddress": "cosmosvaloper1t8apx4hgk0hewphkwymvs2ydppcr8jzq3rk57g",
+    "testnet": true,
+    "correctSlip44": true
   }
 }
